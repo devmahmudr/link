@@ -1,0 +1,23 @@
+body {
+  background: linear-gradient(to right, #fa709a 0%, #fee140 100%);
+}
+div {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  margin: 0 auto;
+  margin-top: 20vh;
+  row-gap: 20px;
+}
+button:hover {
+    background-image: linear-gradient(to right, #fe8c00 0%, #f83600 51%, #fe8c00 100%);
+}
+button{
+    width: 250px;
+}
+a{
+    text-decoration: none;
+}
+
+
